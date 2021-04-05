@@ -1,0 +1,7 @@
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.csprojAssemblyReference.cache
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.csproj.CoreCompileInputs.cache
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.exe.config
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.exe
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.pdb
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.exe
+C:\ApplicationTraining\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.pdb
