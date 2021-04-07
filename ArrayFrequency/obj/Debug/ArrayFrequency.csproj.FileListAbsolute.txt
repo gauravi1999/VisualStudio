@@ -1,0 +1,7 @@
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\bin\Debug\ArrayFrequency.exe.config
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\bin\Debug\ArrayFrequency.exe
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\bin\Debug\ArrayFrequency.pdb
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\obj\Debug\ArrayFrequency.csproj.CoreCompileInputs.cache
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\obj\Debug\ArrayFrequency.exe
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\obj\Debug\ArrayFrequency.pdb
+C:\ApplicationTraining\MyfirstApp\ArrayFrequency\obj\Debug\ArrayFrequency.csprojAssemblyReference.cache

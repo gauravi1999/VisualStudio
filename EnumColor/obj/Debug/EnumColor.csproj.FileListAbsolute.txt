@@ -1,0 +1,7 @@
+C:\ApplicationTraining\MyfirstApp\EnumColor\obj\Debug\EnumColor.csprojAssemblyReference.cache
+C:\ApplicationTraining\MyfirstApp\EnumColor\obj\Debug\EnumColor.csproj.CoreCompileInputs.cache
+C:\ApplicationTraining\MyfirstApp\EnumColor\bin\Debug\EnumColor.exe.config
+C:\ApplicationTraining\MyfirstApp\EnumColor\bin\Debug\EnumColor.exe
+C:\ApplicationTraining\MyfirstApp\EnumColor\bin\Debug\EnumColor.pdb
+C:\ApplicationTraining\MyfirstApp\EnumColor\obj\Debug\EnumColor.exe
+C:\ApplicationTraining\MyfirstApp\EnumColor\obj\Debug\EnumColor.pdb
